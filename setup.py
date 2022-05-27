@@ -32,7 +32,7 @@ def read_requirements(path):
 setup(
     name="surface_coverage",
     version=read("surface_coverage", "VERSION"),
-    description="Awesome surface_coverage created by bscott711",
+    description="surface_coverage created by bscott711",
     url="https://github.com/bscott711/surface_coverage/",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
